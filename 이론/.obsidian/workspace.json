@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "51b02996ff15f878",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e59d294aceb606e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06b328531b7ad88d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "STFT 분석.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "STFT 분석"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "606ea78ff7dbc7a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a51349b75e4d1fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c30f7a2bcad82da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "e514932c52c2498d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ada9b476dceddcbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f167169cb8b7da0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a2dc1cf47b6bdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "783e136298bcb677",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STFT 분석.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "STFT 분석의 백링크"
+            }
+          },
+          {
+            "id": "34c81e8527d96e95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STFT 분석.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "STFT 분석의 나가는 링크"
+            }
+          },
+          {
+            "id": "0fb09df0cb0a8407",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "644901d0d6b3a3fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STFT 분석.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "STFT 분석 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "7c30f7a2bcad82da",
+  "lastOpenFiles": [
+    "특징 분포 분석.pdf",
+    "STFT 분석.pdf",
+    "7. DY-CNN.md",
+    "image/image 1agfga.png",
+    "image/imageadga.png",
+    "image/Pasted_image_20240821105616.png",
+    "6. 경험적 모드 분해법.md",
+    "5. 포락선 (Envelope signal).md",
+    "image/Pasted_image_20240821104410.png",
+    "image/Pasted_image_20240821104235.png",
+    "4. 푸리에 변환 (FFT).md",
+    "image/Pasted_image_20240821095857.png",
+    "image/%EC%8C%8D%EA%B3%A1%EC%84%A02_narurun.gif",
+    "3. 진동 신호 분석 기초용어 및 개념.md",
+    "image/Pasted_image_20240821092319.png",
+    "image/Pasted_image_20240821092218.png",
+    "image/Pasted_image_20240821091757.png",
+    "1. 베어링 이론.md",
+    "2. 신호처리.md",
+    "Modulation signal f7d36a75c4494dcf9f48b8239a65b2d5.md",
+    "베어링 고장 모드 주파수 0ea33f4169dc40ecac933b43b439fd52.md",
+    "image"
+  ]
+}
